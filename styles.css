@@ -1,0 +1,10 @@
+body {
+  background-color: #232e4d;
+  background-image: -webkit-gradient(linear, left top, left bottom, from(#232e4d), to(#535e7d)); /* Safari 4+, Chrome */
+  background-image: -webkit-linear-gradient(top, #232e4d, #535e7d); /* Chrome 10+, Safari 5.1+, iOS 5+ */
+  background-image:    -moz-linear-gradient(top, #232e4d, #535e7d); /* Firefox 3.6-15 */
+  background-image:      -o-linear-gradient(top, #232e4d, #535e7d); /* Opera 11.10-12.00 */
+  background-image:         linear-gradient(to bottom, #232e4d, #535e7d); /* Firefox 16+, IE10, Opera 12.50+ */
+  margin:0;
+  overflow: hidden;
+}
